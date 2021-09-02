@@ -1,0 +1,18 @@
+# Файлы и папки операционной системы
+.DS_Store
+Thumbs.db
+
+# Файлы редактора
+.idea
+*.sublime*
+.vscode
+*.code-workspace
+
+# Вспомогательные файлы
+*.log*
+node_modules/
+.pylintrc
+
+# Файлы проекта
+venv/
+*__pycache__*
