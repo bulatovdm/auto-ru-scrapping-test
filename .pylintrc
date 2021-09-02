@@ -1,0 +1,2 @@
+[MASTER]
+disable=missing-module-docstring,too-many-function-args,broad-except,unused-import,line-too-long,f-string-without-interpolation,wrong-import-order,redefined-outer-name,invalid-name,too-few-public-methods,too-many-arguments,too-many-locals,logging-fstring-interpolation,bare-except,too-many-statements,too-many-nested-blocks,consider-using-dict-items,too-many-branches
