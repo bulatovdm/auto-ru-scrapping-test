@@ -5,7 +5,6 @@ from multiprocessing import Pool
 import requests
 from bs4 import BeautifulSoup
 from logger import get_logger
-from sleep import scrapping_sleep
 from string_to_number import string_to_number
 from proxies import AUTO_RU_SCRAPPER_PROXIES
 from common_config import AUTO_RU_SCRAPPING_HEADERS, LOGFILE_PATH, AUTO_RU_REGIONS_ALIASES, SEARCH_PARAMS, START_YEAR, TIMEOUT_TIME
